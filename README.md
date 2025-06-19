@@ -18,7 +18,7 @@ it eables them to
 Is to a held users manage their medication and keep track of how much they they have consumed. The application also assists users get reminders when its tome to take the medication
 
 ## Video Demo link
-[Medical App video Demo ](https://teams.microsoft.com/l/meetingrecap?driveId=b%21rYSbpyc59UmqpjTOXwwJE1JrpA83JDFPlJSDxFsVxNU8Ir6ZoSmQS6iYo5Vv_D4E&driveItemId=01KPAHYJCAQHHUEB5QIFEIQF2JV3YN2CZA&sitePath=https%3A%2F%2Fbyupathwayworldwideprod-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fdjigu_byupathway_edu%2FEUCBz0IHsEFIiBdJrvDdCyABLMARQKceljBc57x7kPxi4Q&fileUrl=https%3A%2F%2Fbyupathwayworldwideprod-my.sharepoint.com%2Fpersonal%2Fdjigu_byupathway_edu%2FDocuments%2FRecordings%2FMeeting-20250619_021243-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000d9070021aae0db010000000000000000100000002a22e14ed93d644aa4337c699c1eea20&threadId=19%3Ameeting_YzVkMmZhZGQtMzMyNC00NjlhLWFkNTUtMmRmMmQ5NzlhODc4%40thread.v2&organizerId=92c31936-c937-45e7-a261-4fe74b92ebd8&tenantId=42804ae1-d2e9-40b7-a4a3-45811234298b&callId=bd6bcee0-8117-46ff-ae0b-1dbb66c5a266&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)
+[Medical App video Demo ](https://byupathwayworldwideprod-my.sharepoint.com/:v:/g/personal/djigu_byupathway_edu/EUCBz0IHsEFIiBdJrvDdCyABSr5OPWDW_xPf3WHBCo0bbw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=UaasrC)
 
 
 # Development Environment
